@@ -1,0 +1,15 @@
+D:\Шаг\Dot.Net_System Programming\01_TaskManager_Homework\obj\Debug\01_TaskManager_Homework.csprojAssemblyReference.cache
+D:\Шаг\Dot.Net_System Programming\01_TaskManager_Homework\obj\Debug\MainWindow.g.cs
+D:\Шаг\Dot.Net_System Programming\01_TaskManager_Homework\obj\Debug\App.g.cs
+D:\Шаг\Dot.Net_System Programming\01_TaskManager_Homework\obj\Debug\01_TaskManager_Homework_MarkupCompile.cache
+D:\Шаг\Dot.Net_System Programming\01_TaskManager_Homework\obj\Debug\01_TaskManager_Homework_MarkupCompile.lref
+D:\Шаг\Dot.Net_System Programming\01_TaskManager_Homework\bin\Debug\01_TaskManager_Homework.exe.config
+D:\Шаг\Dot.Net_System Programming\01_TaskManager_Homework\bin\Debug\01_TaskManager_Homework.exe
+D:\Шаг\Dot.Net_System Programming\01_TaskManager_Homework\bin\Debug\01_TaskManager_Homework.pdb
+D:\Шаг\Dot.Net_System Programming\01_TaskManager_Homework\obj\Debug\MainWindow.baml
+D:\Шаг\Dot.Net_System Programming\01_TaskManager_Homework\obj\Debug\01_TaskManager_Homework.g.resources
+D:\Шаг\Dot.Net_System Programming\01_TaskManager_Homework\obj\Debug\_01_TaskManager_Homework.Properties.Resources.resources
+D:\Шаг\Dot.Net_System Programming\01_TaskManager_Homework\obj\Debug\01_TaskManager_Homework.csproj.GenerateResource.cache
+D:\Шаг\Dot.Net_System Programming\01_TaskManager_Homework\obj\Debug\01_TaskManager_Homework.csproj.CoreCompileInputs.cache
+D:\Шаг\Dot.Net_System Programming\01_TaskManager_Homework\obj\Debug\01_TaskManager_Homework.exe
+D:\Шаг\Dot.Net_System Programming\01_TaskManager_Homework\obj\Debug\01_TaskManager_Homework.pdb

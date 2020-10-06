@@ -1,0 +1,44 @@
+﻿<Window x:Class="_2_Dynamic_Assemblies.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_2_Dynamic_Assemblies"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="347" Width="800">
+    <Grid Margin="20" Background="BlanchedAlmond">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="255*"/>
+            <ColumnDefinition Width="205*"/>
+            <ColumnDefinition Width="332*"/>
+
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="95*"/>
+            <RowDefinition Height="181*"/>
+        </Grid.RowDefinitions>
+        <StackPanel>
+            <Button Content="Load assembly" Margin="10" Click="Load_Click"/>
+            <Label Name="lb_library" Margin="10"/>
+        </StackPanel>
+
+
+        <Label Content="List of classes:" Grid.Column="0" VerticalAlignment="Bottom" Height="26"/>
+        <ListBox Name="lb_Assemblies" Grid.Row="1" Background="BurlyWood"  SelectionChanged="Lb_Assemblies_SelectionChanged" />
+
+        <Label Name="lb_Method" Content="List of available methods" Grid.Column="1" VerticalAlignment="Bottom" Height="26"/>
+        <ListBox Name="lb_Methods" Grid.Column="1" Grid.Row="1" Background="Chocolate"/>
+
+        <StackPanel Grid.Column="2" Grid.Row="0"  Name="spParameters"></StackPanel>
+
+
+        <StackPanel Grid.Column="2" Grid.Row="1" Background="BurlyWood">
+            <!--<Label Margin="10" Grid.Row="3" Content="Result:" FontSize="20" VerticalAlignment="Center"/>-->
+            <Label x:Name="lblResult" Grid.Row="2" Content="Result:   " FontSize="20" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+
+        </StackPanel>
+        <Button Content="Run" Click="Run_Click" Margin="107,0,108,10" Grid.Column="2" Grid.Row="1" Height="20" VerticalAlignment="Bottom"/>
+
+
+    </Grid>
+</Window>

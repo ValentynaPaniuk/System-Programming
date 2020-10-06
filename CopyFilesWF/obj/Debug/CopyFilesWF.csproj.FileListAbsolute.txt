@@ -1,0 +1,9 @@
+D:\Шаг\Dot.Net_System Programming\CopyFilesWF\obj\Debug\CopyFilesWF.Form.resources
+D:\Шаг\Dot.Net_System Programming\CopyFilesWF\obj\Debug\CopyFilesWF.Properties.Resources.resources
+D:\Шаг\Dot.Net_System Programming\CopyFilesWF\obj\Debug\CopyFilesWF.csproj.GenerateResource.cache
+D:\Шаг\Dot.Net_System Programming\CopyFilesWF\obj\Debug\CopyFilesWF.csproj.CoreCompileInputs.cache
+D:\Шаг\Dot.Net_System Programming\CopyFilesWF\bin\Debug\CopyFilesWF.exe.config
+D:\Шаг\Dot.Net_System Programming\CopyFilesWF\bin\Debug\CopyFilesWF.exe
+D:\Шаг\Dot.Net_System Programming\CopyFilesWF\bin\Debug\CopyFilesWF.pdb
+D:\Шаг\Dot.Net_System Programming\CopyFilesWF\obj\Debug\CopyFilesWF.exe
+D:\Шаг\Dot.Net_System Programming\CopyFilesWF\obj\Debug\CopyFilesWF.pdb

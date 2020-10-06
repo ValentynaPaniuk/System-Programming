@@ -1,0 +1,15 @@
+D:\Шаг\Dot.Net_System Programming\02_Dynamic_Assemblies\bin\Debug\2_Dynamic_Assemblies.exe.config
+D:\Шаг\Dot.Net_System Programming\02_Dynamic_Assemblies\bin\Debug\2_Dynamic_Assemblies.exe
+D:\Шаг\Dot.Net_System Programming\02_Dynamic_Assemblies\bin\Debug\2_Dynamic_Assemblies.pdb
+D:\Шаг\Dot.Net_System Programming\02_Dynamic_Assemblies\obj\Debug\2_Dynamic_Assemblies.csprojAssemblyReference.cache
+D:\Шаг\Dot.Net_System Programming\02_Dynamic_Assemblies\obj\Debug\MainWindow.g.cs
+D:\Шаг\Dot.Net_System Programming\02_Dynamic_Assemblies\obj\Debug\App.g.cs
+D:\Шаг\Dot.Net_System Programming\02_Dynamic_Assemblies\obj\Debug\2_Dynamic_Assemblies_MarkupCompile.cache
+D:\Шаг\Dot.Net_System Programming\02_Dynamic_Assemblies\obj\Debug\2_Dynamic_Assemblies_MarkupCompile.lref
+D:\Шаг\Dot.Net_System Programming\02_Dynamic_Assemblies\obj\Debug\MainWindow.baml
+D:\Шаг\Dot.Net_System Programming\02_Dynamic_Assemblies\obj\Debug\2_Dynamic_Assemblies.g.resources
+D:\Шаг\Dot.Net_System Programming\02_Dynamic_Assemblies\obj\Debug\_2_Dynamic_Assemblies.Properties.Resources.resources
+D:\Шаг\Dot.Net_System Programming\02_Dynamic_Assemblies\obj\Debug\2_Dynamic_Assemblies.csproj.GenerateResource.cache
+D:\Шаг\Dot.Net_System Programming\02_Dynamic_Assemblies\obj\Debug\2_Dynamic_Assemblies.csproj.CoreCompileInputs.cache
+D:\Шаг\Dot.Net_System Programming\02_Dynamic_Assemblies\obj\Debug\2_Dynamic_Assemblies.exe
+D:\Шаг\Dot.Net_System Programming\02_Dynamic_Assemblies\obj\Debug\2_Dynamic_Assemblies.pdb

@@ -1,0 +1,29 @@
+D:\Шаг\Dot.Net\11_TaskManager_Process\bin\Debug\11_TaskManager_Process.exe.config
+D:\Шаг\Dot.Net\11_TaskManager_Process\bin\Debug\11_TaskManager_Process.exe
+D:\Шаг\Dot.Net\11_TaskManager_Process\bin\Debug\11_TaskManager_Process.pdb
+D:\Шаг\Dot.Net\11_TaskManager_Process\obj\Debug\MainWindow.g.cs
+D:\Шаг\Dot.Net\11_TaskManager_Process\obj\Debug\App.g.cs
+D:\Шаг\Dot.Net\11_TaskManager_Process\obj\Debug\11_TaskManager_Process_MarkupCompile.cache
+D:\Шаг\Dot.Net\11_TaskManager_Process\obj\Debug\11_TaskManager_Process_MarkupCompile.lref
+D:\Шаг\Dot.Net\11_TaskManager_Process\obj\Debug\MainWindow.baml
+D:\Шаг\Dot.Net\11_TaskManager_Process\obj\Debug\11_TaskManager_Process.g.resources
+D:\Шаг\Dot.Net\11_TaskManager_Process\obj\Debug\_11_TaskManager_Process.Properties.Resources.resources
+D:\Шаг\Dot.Net\11_TaskManager_Process\obj\Debug\11_TaskManager_Process.csproj.GenerateResource.cache
+D:\Шаг\Dot.Net\11_TaskManager_Process\obj\Debug\11_TaskManager_Process.csproj.CoreCompileInputs.cache
+D:\Шаг\Dot.Net\11_TaskManager_Process\obj\Debug\11_TaskManager_Process.exe
+D:\Шаг\Dot.Net\11_TaskManager_Process\obj\Debug\11_TaskManager_Process.pdb
+D:\Шаг\Dot.Net_System Programming\1_TaskManager_Process\obj\Debug\11_TaskManager_Process.csprojAssemblyReference.cache
+D:\Шаг\Dot.Net_System Programming\1_TaskManager_Process\obj\Debug\MainWindow.g.cs
+D:\Шаг\Dot.Net_System Programming\1_TaskManager_Process\obj\Debug\App.g.cs
+D:\Шаг\Dot.Net_System Programming\1_TaskManager_Process\obj\Debug\11_TaskManager_Process_MarkupCompile.cache
+D:\Шаг\Dot.Net_System Programming\1_TaskManager_Process\obj\Debug\11_TaskManager_Process_MarkupCompile.lref
+D:\Шаг\Dot.Net_System Programming\1_TaskManager_Process\obj\Debug\11_TaskManager_Process.exe
+D:\Шаг\Dot.Net_System Programming\1_TaskManager_Process\obj\Debug\11_TaskManager_Process.pdb
+D:\Шаг\Dot.Net_System Programming\1_TaskManager_Process\bin\Debug\11_TaskManager_Process.exe.config
+D:\Шаг\Dot.Net_System Programming\1_TaskManager_Process\bin\Debug\11_TaskManager_Process.exe
+D:\Шаг\Dot.Net_System Programming\1_TaskManager_Process\bin\Debug\11_TaskManager_Process.pdb
+D:\Шаг\Dot.Net_System Programming\1_TaskManager_Process\obj\Debug\MainWindow.baml
+D:\Шаг\Dot.Net_System Programming\1_TaskManager_Process\obj\Debug\11_TaskManager_Process.g.resources
+D:\Шаг\Dot.Net_System Programming\1_TaskManager_Process\obj\Debug\_11_TaskManager_Process.Properties.Resources.resources
+D:\Шаг\Dot.Net_System Programming\1_TaskManager_Process\obj\Debug\11_TaskManager_Process.csproj.GenerateResource.cache
+D:\Шаг\Dot.Net_System Programming\1_TaskManager_Process\obj\Debug\11_TaskManager_Process.csproj.CoreCompileInputs.cache

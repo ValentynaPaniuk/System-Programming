@@ -1,0 +1,7 @@
+D:\Шаг\Dot.Net_System Programming\_Task_Part2\bin\Debug\_Task_Part2.exe.config
+D:\Шаг\Dot.Net_System Programming\_Task_Part2\bin\Debug\_Task_Part2.exe
+D:\Шаг\Dot.Net_System Programming\_Task_Part2\bin\Debug\_Task_Part2.pdb
+D:\Шаг\Dot.Net_System Programming\_Task_Part2\obj\Debug\_Task_Part2.csprojAssemblyReference.cache
+D:\Шаг\Dot.Net_System Programming\_Task_Part2\obj\Debug\_Task_Part2.csproj.CoreCompileInputs.cache
+D:\Шаг\Dot.Net_System Programming\_Task_Part2\obj\Debug\_Task_Part2.exe
+D:\Шаг\Dot.Net_System Programming\_Task_Part2\obj\Debug\_Task_Part2.pdb
