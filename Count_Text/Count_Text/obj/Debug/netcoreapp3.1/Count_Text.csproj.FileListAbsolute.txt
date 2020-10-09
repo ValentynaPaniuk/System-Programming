@@ -1,0 +1,13 @@
+D:\Шаг\Dot.Net_System Programming\Count_Text\Count_Text\obj\Debug\netcoreapp3.1\Count_Text.csprojAssemblyReference.cache
+D:\Шаг\Dot.Net_System Programming\Count_Text\Count_Text\obj\Debug\netcoreapp3.1\Count_Text.AssemblyInfoInputs.cache
+D:\Шаг\Dot.Net_System Programming\Count_Text\Count_Text\obj\Debug\netcoreapp3.1\Count_Text.AssemblyInfo.cs
+D:\Шаг\Dot.Net_System Programming\Count_Text\Count_Text\obj\Debug\netcoreapp3.1\Count_Text.csproj.CoreCompileInputs.cache
+D:\Шаг\Dot.Net_System Programming\Count_Text\Count_Text\bin\Debug\netcoreapp3.1\Count_Text.exe
+D:\Шаг\Dot.Net_System Programming\Count_Text\Count_Text\bin\Debug\netcoreapp3.1\Count_Text.deps.json
+D:\Шаг\Dot.Net_System Programming\Count_Text\Count_Text\bin\Debug\netcoreapp3.1\Count_Text.runtimeconfig.json
+D:\Шаг\Dot.Net_System Programming\Count_Text\Count_Text\bin\Debug\netcoreapp3.1\Count_Text.runtimeconfig.dev.json
+D:\Шаг\Dot.Net_System Programming\Count_Text\Count_Text\bin\Debug\netcoreapp3.1\Count_Text.dll
+D:\Шаг\Dot.Net_System Programming\Count_Text\Count_Text\bin\Debug\netcoreapp3.1\Count_Text.pdb
+D:\Шаг\Dot.Net_System Programming\Count_Text\Count_Text\obj\Debug\netcoreapp3.1\Count_Text.dll
+D:\Шаг\Dot.Net_System Programming\Count_Text\Count_Text\obj\Debug\netcoreapp3.1\Count_Text.pdb
+D:\Шаг\Dot.Net_System Programming\Count_Text\Count_Text\obj\Debug\netcoreapp3.1\Count_Text.genruntimeconfig.cache
