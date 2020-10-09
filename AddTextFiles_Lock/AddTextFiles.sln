@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddTextFiles", "AddTextFiles\AddTextFiles.csproj", "{8B585B66-4C67-4DF9-B287-A54A18574981}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B585B66-4C67-4DF9-B287-A54A18574981}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B585B66-4C67-4DF9-B287-A54A18574981}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B585B66-4C67-4DF9-B287-A54A18574981}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B585B66-4C67-4DF9-B287-A54A18574981}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17BD71BE-BCD0-4FB8-824F-08A7A0466AF0}
+	EndGlobalSection
+EndGlobal
