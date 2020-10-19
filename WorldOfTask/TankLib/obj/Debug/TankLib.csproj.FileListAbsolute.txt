@@ -1,0 +1,12 @@
+D:\шаг\C#\SysProg\WorldOfTask\TankLib\bin\Debug\TankLib.dll
+D:\шаг\C#\SysProg\WorldOfTask\TankLib\bin\Debug\TankLib.pdb
+D:\шаг\C#\SysProg\WorldOfTask\TankLib\obj\Debug\TankLib.csprojAssemblyReference.cache
+D:\шаг\C#\SysProg\WorldOfTask\TankLib\obj\Debug\TankLib.csproj.CoreCompileInputs.cache
+D:\шаг\C#\SysProg\WorldOfTask\TankLib\obj\Debug\TankLib.dll
+D:\шаг\C#\SysProg\WorldOfTask\TankLib\obj\Debug\TankLib.pdb
+C:\Users\ADMIN\Desktop\system-programming-Sergiy\WorldOfTask\TankLib\bin\Debug\TankLib.dll
+C:\Users\ADMIN\Desktop\system-programming-Sergiy\WorldOfTask\TankLib\bin\Debug\TankLib.pdb
+C:\Users\ADMIN\Desktop\system-programming-Sergiy\WorldOfTask\TankLib\obj\Debug\TankLib.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\system-programming-Sergiy\WorldOfTask\TankLib\obj\Debug\TankLib.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\system-programming-Sergiy\WorldOfTask\TankLib\obj\Debug\TankLib.dll
+C:\Users\ADMIN\Desktop\system-programming-Sergiy\WorldOfTask\TankLib\obj\Debug\TankLib.pdb
